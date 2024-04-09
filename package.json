@@ -1,0 +1,17 @@
+{
+  "name": "e2e-sw_sbi",
+  "version": "1.0.0",
+  "description": "E2E framework Cypres",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "cypress:open": "cypress open"
+  },
+  "author": "Brian Verdier",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.7.0",
+    "cypress-mochawesome-reporter": "^3.8.2"
+  }
+  
+}
